@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is PAvel, and I am junior software developer. 
+My name is Pavel, and I am junior software developer, from Olomouc,Czech Republic
 
 ## 🔭 I’m currently working on: 
 
@@ -8,6 +8,7 @@ My name is PAvel, and I am junior software developer.
 
 
 ## 📫 How to reach me: 
+
 
 ## ⚡ Fun fact: 
 
