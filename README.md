@@ -4,7 +4,7 @@ My name is Pavel, and I am junior software developer, from Olomouc,Czech Republi
 
 ## 🔭 I’m currently working on: 
 - getting my first real job as software dev
-You can find some pinned project below!
+- You can find some pinned project below!
 ## 🌱 I’m currently learning:
  - blazor and webassembly
  - .NET core MVC apps 
